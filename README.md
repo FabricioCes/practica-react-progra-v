@@ -4,7 +4,7 @@
 
 ```bash
 npm i 
-npm i -D autoprefixer taildwindcss postcss
+npm i -D autoprefixer tailwindcss postcss
 npm i @nextui-org/react framer-motion
 ```
 
