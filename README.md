@@ -4,8 +4,8 @@
 
 ```bash
 npm i 
-npm i -D autoprefixer tailwindcss postcss
-npm i @nextui-org/react framer-motion
+npm i -D autoprefixer taildwindcss postcss
+npm i @nextui-org/react framer-motion react-icons uuid
 ```
 
 *Después, para probar que todo funcione a la perfección, debe correr el siguiente comando:*
